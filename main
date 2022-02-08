@@ -1,0 +1,13 @@
+  - DOMAIN-SUFFIX,githubusercontent.com,Proxy
+  - DOMAIN-SUFFIX,amazonaws.com,Proxy
+  - DOMAIN-SUFFIX,nodejs.org,Proxy
+  - DOMAIN-SUFFIX,terraform.io,Proxy
+  - DOMAIN-SUFFIX,elrepo.org,Proxy
+  - DOMAIN-SUFFIX,docker.com,Proxy
+  - DOMAIN-SUFFIX,docker.io,Proxy
+  - DOMAIN-SUFFIX,apache.org,Proxy
+  - DOMAIN-SUFFIX,pypi.org,Proxy
+  - DOMAIN-SUFFIX,pythonhosted.org,Proxy
+  - DOMAIN-SUFFIX,pypa.io,Proxy
+  - DOMAIN-SUFFIX,jsdelivr.net,Proxy
+  - DOMAIN-SUFFIX,golang.org,Proxy
